@@ -1,6 +1,3 @@
-# EDA-Hospitality-Domain
-
-
 # 🏨 Hotel Booking Data Analysis (EDA using Python)
 
 ## 📌 Project Overview
