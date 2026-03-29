@@ -101,9 +101,5 @@ This analysis provides actionable insights into hotel performance, customer tren
 
 ## 📎 Author
 **Pruthviraj Kadam**  
-Aspiring Data Analyst skilled in Python, SQL, Power BI, and Data Analysis
-
-
-
-
+Aspiring Data Analyst skilled in Python, SQL, Power BI, Statistics and Data Analysis
 
