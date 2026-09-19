@@ -66,7 +66,7 @@ Performed analysis to answer key business questions:
 
 ## 📊 Key Insights
 
-- 🟢 **Delhi has the highest occupancy rate (~61%)**, indicating strong demand  
+- 🟢 **Delhi has the highest occupancy rate (~63%)**, indicating strong demand  
 - 🟢 **Weekend occupancy (~72%) is significantly higher than weekdays (~50%)**  
 - 🟢 **Mumbai generates the highest revenue among all cities**  
 - 🟢 **Premium and Presidential rooms contribute higher revenue**  
